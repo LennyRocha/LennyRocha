@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center">Leonardo Obed Sanchez Rocha</h2>
+<p align="center"><strong>Fullstack Developer</strong> | <strong>UX/UI Designer</strong></p>
+<p align="center">Ingeniería en Desarrollo y Gestión de Software | sanzleonard4@gmail.com</p>
 
 <!--
 **LennyRocha/LennyRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
