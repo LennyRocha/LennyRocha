@@ -13,6 +13,8 @@
 - 🎓 Estudiante de Ingeniería en Desarrollo y Gestión de Software en la **Universidad Tecnológica Emiliano Zapata**
 - 🛠️ Construyo APIs RESTful y backends escalables con **Express.js, Spring Boot, Nestjs y Django REST Framework**
 - 🎨 Diseño interfaces en **Figma** aplicando los principios de usabilidad
+- 💻 Desarrollo sistemas web con **React.js**, **Next.js** y **Vanilla JS**
+- 📱 Desarrollo aplicaciones móviles tanto nativas (**Android/Kotlin**) como multiplataforma (**React Native** y **Flutter**)
 - 🗄️ Manejo bases de datos relacionales y no relacionales (**MySQL, PostgreSQL, MongoDB, y SQLite**)
 - 📦 Manejo datos en caché con **Redis**
 
@@ -67,6 +69,7 @@
 <p>
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 **Herramientas**
@@ -80,6 +83,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232B37?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
@@ -117,10 +122,25 @@
     <td width="50%">
       <h4>🚘 Sistema de estacionamiento <b>Parking</b></h4>
       <p>Sistema web y móvil para gestionar vehículos y cajones de un estacionamiento, regido por un mecanismo de pensiones</p>
-      <a href="https://github.com/LennyRocha/Arq_software_Parking">Ver perfil →</a>
+      <a href="https://github.com/LennyRocha/Arq_software_Parking">Ver repositorio →</a>
+    </td>
+    <td width="50%">
+      <h4>🛒 Aplicación móvil de tienda de abarrotes <b>E-commerce app</b></h4>
+      <p>Aplicación móvil de compras en una tienda de abarrotes local, permitiendo a los clientes generar pedidos en base a sus carritos de compra</p>
+      <a href="https://github.com/Daniel-Aguilar-Dev/ecommerce-mobile-app">Ver repositorio →</a>
     </td>
   </tr>
 </table>
+
+---
+
+### 📄 Certificaciones
+
+<a href="https://www.credly.com/badges/50af9246-b224-4a55-93d4-02d975285944">Javascript Essentials I | Cisco Networking Academy | Abril 2025</a>
+<br/>
+<a href="https://www.credly.com/badges/b208dcc4-1819-486d-8c7a-ad3fd02d7422">CSS Essentials | Cisco Networking Academy | Septiembre 2025</a>
+<br/>
+<a href="https://www.credly.com/badges/11689b62-1440-4f1b-8a50-11adc762846a">CRUD Operations in MongoDB | MongoDB | Septiembre 2025</a>
 
 ---
 
